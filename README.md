@@ -14,3 +14,7 @@ what can we give to our customers?
 Enterprises are using AppStream to replace application streaming technologies that stream line of business and graphics apps to employees, contractors and temporary workers without acquiring, provisioning or operating any hardware or infrastructure.
 
 ApplicationStreaming’s model is different to traditional application streaming technologies that are based on provisioning for peak capacity. 
+
+# Stack Technologies
+
++ cobrowsing (cobrowse)
